@@ -1,0 +1,20 @@
+/Makefile.am/1.1.1.9/Thu Jan 10 08:49:54 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.15/Mon Mar  4 08:20:59 2019//Tnetbsd-9-2-RELEASE
+/drmdevice.c/1.1.1.4/Mon Mar  4 08:20:59 2019//Tnetbsd-9-2-RELEASE
+/drmsl.c/1.1.1.2/Tue Aug 29 06:30:18 2017//Tnetbsd-9-2-RELEASE
+/hash.c/1.1.1.1/Mon Jul 20 02:19:24 2015//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.2/Thu Jan 10 08:49:54 2019//Tnetbsd-9-2-RELEASE
+/random.c/1.1.1.1/Mon Jul 20 02:19:24 2015//Tnetbsd-9-2-RELEASE
+D/amdgpu////
+D/etnaviv////
+D/exynos////
+D/kms////
+D/kmstest////
+D/modeprint////
+D/modetest////
+D/nouveau////
+D/proptest////
+D/radeon////
+D/tegra////
+D/util////
+D/vbltest////

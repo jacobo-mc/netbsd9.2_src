@@ -1,0 +1,29 @@
+/array-view-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/child-path-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/cli-utils-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/common-utils-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/copy_bitwise-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/environ-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/format_pieces-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/function-view-selftests.c/1.1.1.2/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/lookup_name_info-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/memory-map-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/memrange-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/mkdir-recursive-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/observable-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/offset-type-selftests.c/1.1.1.2/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/optional-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/parse-connection-spec-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/ptid-selftests.c/1.1.1.2/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/rsp-low-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/scoped_fd-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/scoped_mmap-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/scoped_restore-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/string_view-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/style-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/tracepoint-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/unpack-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/utils-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+/xml-utils-selftests.c/1.1.1.1/Sun May 26 21:00:08 2019//Tnetbsd-9-2-RELEASE
+D/basic_string_view////
+D/optional////

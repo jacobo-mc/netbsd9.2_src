@@ -1,0 +1,30 @@
+/ABOUT-NLS/1.1.1.4/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/AUTHORS/1.1.1.2/Mon Mar 17 08:32:02 2014//Tnetbsd-9-2-RELEASE
+/COPYING/1.1.1.2/Fri May 28 09:54:08 2010//Tnetbsd-9-2-RELEASE
+/ChangeLog/1.1.1.3/Fri May 28 09:54:09 2010//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.5/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.12/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/NEWS/1.1.1.17/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/README/1.1.1.5/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/TODO/1.1.1.1/Sat Aug 30 09:12:06 2008//Tnetbsd-9-2-RELEASE
+/aclocal.m4/1.1.1.15/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/autogen.sh/1.1.1.4/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/compile/1.1.1.5/Wed Mar  6 10:57:48 2019//Tnetbsd-9-2-RELEASE
+/config.guess/1.10/Sat Jun  1 07:11:53 2019//Tnetbsd-9-2-RELEASE
+/config.rpath/1.1.1.4/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/config.sub/1.10/Sat Jun  1 07:11:53 2019//Tnetbsd-9-2-RELEASE
+/configure/1.18/Sat Jun  1 07:11:53 2019//Tnetbsd-9-2-RELEASE
+/configure.ac/1.1.1.11/Sat Jun  1 07:11:05 2019//Tnetbsd-9-2-RELEASE
+/install-sh/1.1.1.6/Wed Mar  6 10:57:48 2019//Tnetbsd-9-2-RELEASE
+/missing/1.1.1.9/Wed Mar  6 10:57:48 2019//Tnetbsd-9-2-RELEASE
+/xkeyboard-config.pc.in/1.1.1.1/Fri May 28 09:54:08 2010//Tnetbsd-9-2-RELEASE
+D/compat////
+D/docs////
+D/geometry////
+D/keycodes////
+D/m4////
+D/man////
+D/po////
+D/rules////
+D/symbols////
+D/types////

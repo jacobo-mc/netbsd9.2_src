@@ -1,0 +1,20 @@
+/meson.build/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/nir_to_vir.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/qpu_schedule.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/qpu_validate.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d33_tex.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d33_vpm_setup.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d40_tex.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d_compiler.h/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d_nir_lower_io.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/v3d_nir_lower_txf_ms.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_dump.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_live_variables.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_lower_uniforms.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_opt_copy_propagate.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_opt_dead_code.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_opt_small_immediates.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_register_allocate.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+/vir_to_qpu.c/1.1.1.1/Sun Mar 10 03:42:35 2019//Tnetbsd-9-2-RELEASE
+D

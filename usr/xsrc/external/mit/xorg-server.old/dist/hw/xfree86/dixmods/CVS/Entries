@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dbemodule.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/fbmodule.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/glxmodule.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/recordmod.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/shmodule.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xkbKillSrv.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xkbPrivate.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xkbVT.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+D/extmod////

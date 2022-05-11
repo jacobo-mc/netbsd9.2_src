@@ -1,0 +1,14 @@
+/clock.h/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/hours.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/microseconds.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/milliseconds.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/minutes.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/nanoseconds.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/rep.h/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/seconds.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/version.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+D/time.clock////
+D/time.clock.req////
+D/time.duration////
+D/time.point////
+D/time.traits////

@@ -1,0 +1,13 @@
+/10-quirks.conf/1.1.1.1/Wed Aug 10 07:44:32 2016//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.5/Wed Aug 10 07:44:32 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.9/Sun Mar  3 21:57:43 2019//Tnetbsd-9-2-RELEASE
+/config-backends.h/1.1.1.4/Wed Aug 10 07:44:32 2016//Tnetbsd-9-2-RELEASE
+/config.c/1.1.1.4/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/dbus-core.c/1.1.1.5/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/fdi2iclass.py/1.1.1.1/Tue Nov 23 05:20:56 2010//Tnetbsd-9-2-RELEASE
+/hal.c/1.1.1.9/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/udev.c/1.1.1.5/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/wscons.c/1.3/Mon Dec 31 09:49:59 2018//Tnetbsd-9-2-RELEASE
+/x11-input.fdi/1.1.1.3/Tue Aug  2 06:56:45 2011//Tnetbsd-9-2-RELEASE
+D

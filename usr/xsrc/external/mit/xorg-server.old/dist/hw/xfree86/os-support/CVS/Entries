@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/int10Defines.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/xf86OSpriv.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/xf86_OSlib.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/xf86_OSproc.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/xorgos.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+D/bsd////
+D/bus////
+D/hurd////
+D/linux////
+D/misc////
+D/shared////
+D/solaris////

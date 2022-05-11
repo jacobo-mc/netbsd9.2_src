@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa.h/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_accel.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_classic.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_driver.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_glyphs.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_migration_classic.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_migration_mixed.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_mixed.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_offscreen.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_priv.h/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_render.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+/exa_unaccel.c/1.1.1.1/Thu Jun  9 09:07:56 2016//Tnetbsd-9-2-RELEASE
+D

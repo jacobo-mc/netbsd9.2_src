@@ -1,0 +1,13 @@
+/autoconf.c/1.15/Sat Jan 11 08:07:16 2014//Tnetbsd-9-2-RELEASE
+/clock.c/1.9/Sat Jan 26 15:46:24 2013//Tnetbsd-9-2-RELEASE
+/disksubr.c/1.32/Wed Apr  3 22:10:50 2019//Tnetbsd-9-2-RELEASE
+/genassym.cf/1.21/Wed Dec 19 13:57:47 2018//Tnetbsd-9-2-RELEASE
+/isr.c/1.22/Sat Mar 22 16:52:07 2014//Tnetbsd-9-2-RELEASE
+/isr.h/1.4/Sat Mar 14 14:46:01 2009//Tnetbsd-9-2-RELEASE
+/locore.s/1.64/Sun Jun 30 05:04:49 2019//Tnetbsd-9-2-RELEASE
+/machdep.c/1.103/Sun Jun 30 05:04:49 2019//Tnetbsd-9-2-RELEASE
+/mainbus.c/1.15/Thu Mar  9 14:05:59 2017//Tnetbsd-9-2-RELEASE
+/pmap_bootstrap.c/1.37/Thu Dec 22 16:05:15 2016//Tnetbsd-9-2-RELEASE
+/trap.c/1.71/Sat Apr  6 03:06:25 2019//Tnetbsd-9-2-RELEASE
+/vectors.s/1.4/Mon Sep 23 17:02:18 2013//Tnetbsd-9-2-RELEASE
+D

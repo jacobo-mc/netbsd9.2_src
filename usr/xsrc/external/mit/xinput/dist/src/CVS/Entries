@@ -1,0 +1,18 @@
+/Makefile.am/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.10/Fri Jul 19 07:29:07 2019//Tnetbsd-9-2-RELEASE
+/buttonmap.c/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/feedback.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/hierarchy.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/list.c/1.1.1.8/Fri Jul 19 07:29:07 2019//Tnetbsd-9-2-RELEASE
+/property.c/1.1.1.8/Fri Jul 19 07:29:07 2019//Tnetbsd-9-2-RELEASE
+/setcp.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/setint.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/setmode.c/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/setptr.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/state.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-9-2-RELEASE
+/test.c/1.1.1.4/Wed Jul 22 08:34:44 2015//Tnetbsd-9-2-RELEASE
+/test_xi2.c/1.1.1.7/Fri Jul 19 07:29:07 2019//Tnetbsd-9-2-RELEASE
+/transform.c/1.1.1.2/Wed Jul 22 08:34:44 2015//Tnetbsd-9-2-RELEASE
+/xinput.c/1.5/Fri Jul 19 07:29:35 2019//Tnetbsd-9-2-RELEASE
+/xinput.h/1.1.1.5/Fri Jul 19 07:29:07 2019//Tnetbsd-9-2-RELEASE
+D

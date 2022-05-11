@@ -1,0 +1,18 @@
+/if_le.c/1.9/Sun Jun 30 05:04:48 2019//Tnetbsd-9-2-RELEASE
+/lcd.c/1.11/Sun Jun 30 05:04:48 2019//Tnetbsd-9-2-RELEASE
+/lunafb.c/1.40.2.1/Thu Oct  3 17:07:51 2019//Tnetbsd-9-2-RELEASE
+/lunaws.c/1.31/Fri Aug 21 10:48:06 2015//Tnetbsd-9-2-RELEASE
+/omkbdmap.c/1.2/Sat Oct  4 14:42:41 2014//Tnetbsd-9-2-RELEASE
+/omkbdmap.h/1.1/Sun Jul 20 11:14:56 2014//Tnetbsd-9-2-RELEASE
+/omrasops.c/1.20.6.1/Thu Aug 15 12:21:27 2019//Tnetbsd-9-2-RELEASE
+/omrasopsvar.h/1.4/Sun Jun 30 05:04:48 2019//Tnetbsd-9-2-RELEASE
+/sio.c/1.13/Sun Feb  2 15:35:06 2014//Tnetbsd-9-2-RELEASE
+/sioreg.h/1.4/Wed Jul 27 14:17:54 2011//Tnetbsd-9-2-RELEASE
+/siotty.c/1.45/Sun Jun 30 02:11:56 2019//Tnetbsd-9-2-RELEASE
+/siovar.h/1.8/Sun Feb  2 15:35:06 2014//Tnetbsd-9-2-RELEASE
+/spc.c/1.10/Tue Jan 22 15:44:25 2013//Tnetbsd-9-2-RELEASE
+/syscn.h/1.1/Fri Aug 21 10:48:06 2015//Tnetbsd-9-2-RELEASE
+/timekeeper.c/1.15/Thu Nov 20 16:34:25 2014//Tnetbsd-9-2-RELEASE
+/timekeeper.h/1.4/Tue Mar 18 18:20:41 2014//Tnetbsd-9-2-RELEASE
+/xp.c/1.5/Sun Jun 30 05:04:48 2019//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,17 @@
+/AddTrap.c/1.1.1.2/Sun Nov  8 09:43:26 2009//Tnetbsd-9-2-RELEASE
+/Color.c/1.1.1.2/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/Composite.c/1.1.1.2/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/Cursor.c/1.1.1.2/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/FillRect.c/1.1.1.2/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/FillRects.c/1.1.1.2/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/Filter.c/1.4/Tue Oct  4 22:01:49 2016//Tnetbsd-9-2-RELEASE
+/Glyph.c/1.1.1.3/Sun Jul 19 23:21:23 2015//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.3/Thu Jun  6 06:15:22 2013//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.7/Tue Oct  4 21:56:56 2016//Tnetbsd-9-2-RELEASE
+/Picture.c/1.1.1.2/Thu Jun  6 06:15:22 2013//Tnetbsd-9-2-RELEASE
+/Poly.c/1.1.1.3/Thu Jun  6 06:15:21 2013//Tnetbsd-9-2-RELEASE
+/Trap.c/1.1.1.1/Wed Jul 30 02:56:06 2008//Tnetbsd-9-2-RELEASE
+/Tri.c/1.1.1.1/Wed Jul 30 02:56:07 2008//Tnetbsd-9-2-RELEASE
+/Xrender.c/1.4/Tue Oct  4 22:01:49 2016//Tnetbsd-9-2-RELEASE
+/Xrenderint.h/1.1.1.4/Sun Jul 19 23:21:23 2015//Tnetbsd-9-2-RELEASE
+D

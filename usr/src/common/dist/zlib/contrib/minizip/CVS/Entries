@@ -1,0 +1,23 @@
+/Makefile/1.1.1.1/Sat Jan 14 20:10:58 2006//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/MiniZip64_Changes.txt/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/MiniZip64_info.txt/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/configure.ac/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/crypt.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/ioapi.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/ioapi.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/iowin32.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/iowin32.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/make_vms.com/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/miniunz.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/miniunzip.1/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/minizip.1/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/minizip.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/minizip.pc.in/1.1.1.1/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/mztools.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/mztools.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/unzip.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/unzip.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/zip.c/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+/zip.h/1.1.1.2/Tue Jan 10 00:25:30 2017//Tnetbsd-9-2-RELEASE
+D

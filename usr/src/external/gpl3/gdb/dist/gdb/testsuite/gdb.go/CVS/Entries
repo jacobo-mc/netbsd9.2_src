@@ -1,0 +1,22 @@
+/basic-types.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/chan.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/chan.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/handcall.exp/1.1.1.7/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/handcall.go/1.1.1.2/Wed Feb  3 02:59:32 2016//Tnetbsd-9-2-RELEASE
+/hello.exp/1.1.1.7/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/hello.go/1.1.1.2/Wed Feb  3 02:59:32 2016//Tnetbsd-9-2-RELEASE
+/integers.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/integers.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/methods.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/methods.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/package.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/package1.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/package2.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/print.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/strings.exp/1.1.1.7/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/strings.go/1.1.1.2/Wed Feb  3 02:59:32 2016//Tnetbsd-9-2-RELEASE
+/types.exp/1.1.1.6/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/types.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-9-2-RELEASE
+/unsafe.exp/1.1.1.7/Sun May 26 20:59:59 2019//Tnetbsd-9-2-RELEASE
+/unsafe.go/1.1.1.2/Wed Feb  3 02:59:32 2016//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,26 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shadow.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shadow.h/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shalloc.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shpacked.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shplanar.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shplanar8.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack_180.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack_270.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack_270YX.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack_90.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot16pack_90YX.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot32pack.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot32pack_180.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot32pack_270.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot32pack_90.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot8pack.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot8pack_180.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot8pack_270.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrot8pack_90.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrotate.c/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrotpack.h/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+/shrotpackYX.h/1.1.1.1/Thu Jun  9 09:08:00 2016//Tnetbsd-9-2-RELEASE
+D

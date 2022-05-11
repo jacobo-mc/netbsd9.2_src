@@ -1,0 +1,25 @@
+/disasm-a3xx.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/instr-a3xx.h/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3.h/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_cache.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_cache.h/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_cmdline.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_compiler.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_compiler.h/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_compiler_nir.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_cp.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_depth.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_group.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_legalize.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_nir.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_nir.h/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_nir_lower_tg4_to_tex.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_nir_trig.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_nir_trig.py/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_print.c/1.1.1.1/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_ra.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_sched.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_shader.c/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+/ir3_shader.h/1.1.1.2/Sun Mar 10 03:42:42 2019//Tnetbsd-9-2-RELEASE
+D

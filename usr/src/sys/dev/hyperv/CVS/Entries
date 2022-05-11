@@ -1,0 +1,20 @@
+/files.hyperv/1.2/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+/genfb_vmbus.c/1.1/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+/genfb_vmbusvar.h/1.1/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+/hvheartbeat.c/1.2/Fri Mar  1 08:17:51 2019//Tnetbsd-9-2-RELEASE
+/hvkbd.c/1.2.2.3/Thu Feb  4 17:04:14 2021//Tnetbsd-9-2-RELEASE
+/hvkbdvar.h/1.1/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+/hvs.c/1.1.8.1/Mon Nov 25 16:58:54 2019//Tnetbsd-9-2-RELEASE
+/hvshutdown.c/1.2/Fri Mar  1 08:17:51 2019//Tnetbsd-9-2-RELEASE
+/hvtimesync.c/1.2/Fri Mar  1 08:17:51 2019//Tnetbsd-9-2-RELEASE
+/hyperv_common.c/1.2/Fri May 31 04:23:19 2019//Tnetbsd-9-2-RELEASE
+/hypervreg.h/1.1/Fri Feb 15 08:54:01 2019//Tnetbsd-9-2-RELEASE
+/hypervvar.h/1.2/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+/if_hvn.c/1.4.2.7/Thu Feb  4 17:04:14 2021//Tnetbsd-9-2-RELEASE
+/if_hvnreg.h/1.1/Fri Feb 15 08:54:01 2019//Tnetbsd-9-2-RELEASE
+/vmbus.c/1.4.2.2/Thu Feb  4 17:04:14 2021//Tnetbsd-9-2-RELEASE
+/vmbusic.c/1.1/Fri Feb 15 08:54:02 2019//Tnetbsd-9-2-RELEASE
+/vmbusicreg.h/1.2/Fri Mar  1 10:02:33 2019//Tnetbsd-9-2-RELEASE
+/vmbusicvar.h/1.1/Fri Feb 15 08:54:02 2019//Tnetbsd-9-2-RELEASE
+/vmbusvar.h/1.2/Fri May 24 14:28:48 2019//Tnetbsd-9-2-RELEASE
+D

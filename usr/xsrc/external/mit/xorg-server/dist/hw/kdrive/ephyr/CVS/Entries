@@ -1,0 +1,17 @@
+/Makefile.am/1.1.1.6/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.9/Sun Mar  3 21:57:46 2019//Tnetbsd-9-2-RELEASE
+/README/1.1.1.1/Thu Jul 31 19:50:42 2008//Tnetbsd-9-2-RELEASE
+/ephyr.c/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyr.h/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyr_draw.c/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyr_glamor_glx.c/1.1.1.2/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyr_glamor_glx.h/1.1.1.1/Wed Aug 10 07:44:35 2016//Tnetbsd-9-2-RELEASE
+/ephyr_glamor_xv.c/1.1.1.2/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyrcursor.c/1.1.1.2/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyrinit.c/1.1.1.6/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ephyrlog.h/1.1.1.2/Wed Aug 10 07:44:35 2016//Tnetbsd-9-2-RELEASE
+/ephyrvideo.c/1.1.1.4/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/hostx.c/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/hostx.h/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+D/man////

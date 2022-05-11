@@ -1,0 +1,22 @@
+/detect.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/exports.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/freetype.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/link_dos.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/link_std.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/modules.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+/toplevel.mk/1.4.2.1/Thu Oct 22 11:25:22 2020//Tnetbsd-9-2-RELEASE
+D/amiga////
+D/ansi////
+D/atari////
+D/beos////
+D/cmake////
+D/compiler////
+D/dos////
+D/mac////
+D/meson////
+D/os2////
+D/symbian////
+D/unix////
+D/vms////
+D/wince////
+D/windows////

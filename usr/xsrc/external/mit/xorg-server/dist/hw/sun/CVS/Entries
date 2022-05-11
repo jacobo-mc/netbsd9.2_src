@@ -1,0 +1,22 @@
+/README/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/Xsun.man/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/circleset.h/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/constype.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/constype.man/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/kbd_mode.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/kbd_mode.man/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sun.h/1.7.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunCfb.c/1.6.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunCfb24.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunCursor.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunFbs.c/1.3.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunGX.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunGX.h/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunInit.c/1.9.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunIo.c/1.5.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunKbd.c/1.7.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunKeyMap.c/1.3.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunMfb.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunMouse.c/1.2.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+/sunMultiDepth.c/1.1.2.2/Thu Aug 27 08:53:19 2020//Tnetbsd-9-2-RELEASE
+D

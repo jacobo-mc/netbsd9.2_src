@@ -1,0 +1,27 @@
+/ac_binary.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_binary.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_debug.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_debug.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_exp_param.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_gpu_info.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_gpu_info.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_llvm_build.c/1.1.1.2/Sat Jun  1 07:41:08 2019//Tnetbsd-9-2-RELEASE
+/ac_llvm_build.h/1.1.1.2/Sat Jun  1 07:41:08 2019//Tnetbsd-9-2-RELEASE
+/ac_llvm_helper.cpp/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_llvm_util.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_llvm_util.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_nir_to_llvm.c/1.1.1.2/Sat Jun  1 07:41:08 2019//Tnetbsd-9-2-RELEASE
+/ac_nir_to_llvm.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_shader_abi.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_shader_util.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_shader_util.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_surface.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/ac_surface.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/amd_family.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/amd_kernel_code_t.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/gfx9d.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/sid.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/sid_tables.h/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/sid_tables.py/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+D

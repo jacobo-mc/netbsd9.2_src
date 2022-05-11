@@ -1,0 +1,13 @@
+/arithmetic.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/atomics.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/bitstring.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/fbarrier.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/fibers.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/fp16.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/misc.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/multimedia.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/queue.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/sat_arithmetic.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/segment.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+/workitems.c/1.1.1.1/Sat Jan 19 10:14:41 2019//Tnetbsd-9-2-RELEASE
+D

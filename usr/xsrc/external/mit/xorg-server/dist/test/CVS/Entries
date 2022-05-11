@@ -1,0 +1,25 @@
+/Makefile.am/1.4/Mon Dec 31 09:50:02 2018//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.6/Sun Mar  3 21:57:50 2019//Tnetbsd-9-2-RELEASE
+/README/1.1.1.2/Wed Aug 10 07:44:31 2016//Tnetbsd-9-2-RELEASE
+/fixes.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/hashtabletest.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/input.c/1.1.1.5/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/list.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/misc.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/signal-logging.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/simple-xinit.c/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/string.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/test_xkb.c/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/tests-common.c/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/tests-common.h/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/tests.c/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/tests.h/1.1.1.1/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/touch.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/xfree86.c/1.1.1.2/Mon Dec 31 09:36:08 2018//Tnetbsd-9-2-RELEASE
+/xtest.c/1.1.1.4/Sun Mar  3 21:57:51 2019//Tnetbsd-9-2-RELEASE
+D/bigreq////
+D/scripts////
+D/sync////
+D/xi1////
+D/xi2////

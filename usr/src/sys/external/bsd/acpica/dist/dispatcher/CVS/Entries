@@ -1,0 +1,17 @@
+/dsargs.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dscontrol.c/1.11/Mon Apr 29 01:18:06 2019//Tnetbsd-9-2-RELEASE
+/dsdebug.c/1.1.1.7/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsfield.c/1.1.1.13/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsinit.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsmethod.c/1.1.1.14/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsmthdat.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsobject.c/1.1.1.15/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dsopcode.c/1.13/Mon Apr 29 01:18:06 2019//Tnetbsd-9-2-RELEASE
+/dspkginit.c/1.4/Mon Apr 29 01:18:06 2019//Tnetbsd-9-2-RELEASE
+/dsutils.c/1.13/Mon Apr 29 01:18:06 2019//Tnetbsd-9-2-RELEASE
+/dswexec.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dswload.c/1.1.1.14/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dswload2.c/1.1.1.15/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dswscope.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/dswstate.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+D

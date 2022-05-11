@@ -1,0 +1,15 @@
+/F.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/F_assign.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/F_incomplete.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/F_nullptr.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/alloc_F.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/alloc_function.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/alloc_nullptr.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/alloc_rfunction.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/copy.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/copy_assign.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/default.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/nullptr_t.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+/nullptr_t_assign.pass.cpp/1.1.1.1/Thu Aug 20 09:31:53 2015//Tnetbsd-9-2-RELEASE
+D

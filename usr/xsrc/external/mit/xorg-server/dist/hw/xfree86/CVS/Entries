@@ -1,0 +1,31 @@
+/Makefile.am/1.1.1.6/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.9/Sun Mar  3 21:57:46 2019//Tnetbsd-9-2-RELEASE
+/Xorg.sh.in/1.1.1.1/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/sdksyms.sh/1.1.1.2/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/xorg-wrapper.c/1.1.1.2/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/xorgconf.cpp/1.1.1.5/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+D/common////
+D/ddc////
+D/dixmods////
+D/doc////
+D/dri////
+D/dri2////
+D/drivers////
+D/exa////
+D/fbdevhw////
+D/glamor_egl////
+D/i2c////
+D/int10////
+D/loader////
+D/man////
+D/modes////
+D/os-support////
+D/parser////
+D/ramdac////
+D/shadowfb////
+D/utils////
+D/vbe////
+D/vgahw////
+D/x86emu////
+D/xkb////

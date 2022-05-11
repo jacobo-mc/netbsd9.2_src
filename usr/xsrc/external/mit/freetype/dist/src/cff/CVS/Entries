@@ -1,0 +1,18 @@
+/cff.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffcmap.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffcmap.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffdrivr.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffdrivr.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cfferrs.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffgload.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffgload.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffload.c/1.12.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffload.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffobjs.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffobjs.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffparse.c/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cffparse.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/cfftoken.h/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/module.mk/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+/rules.mk/1.4.2.1/Thu Oct 22 11:25:32 2020//Tnetbsd-9-2-RELEASE
+D

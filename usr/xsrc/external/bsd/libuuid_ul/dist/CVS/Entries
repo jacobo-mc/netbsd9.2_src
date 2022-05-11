@@ -1,0 +1,10 @@
+/compare.c/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+/copy.c/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+/gen_uuid.c/1.2/Thu Mar  7 03:51:39 2019//Tnetbsd-9-2-RELEASE
+/pack.c/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+/parse.c/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+/unpack.c/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+/unparse.c/1.2/Thu Mar  7 03:51:39 2019//Tnetbsd-9-2-RELEASE
+/uuid.h/1.2/Thu Mar  7 03:51:39 2019//Tnetbsd-9-2-RELEASE
+/uuidP.h/1.1.1.1/Thu Mar  7 03:09:20 2019//Tnetbsd-9-2-RELEASE
+D

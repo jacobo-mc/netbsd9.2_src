@@ -1,0 +1,38 @@
+/Makefile/1.11/Fri Jan 18 17:31:55 2019//Tnetbsd-9-2-RELEASE
+/Makefile.backend/1.8/Fri Feb  1 10:34:18 2019//Tnetbsd-9-2-RELEASE
+/Makefile.backtrace/1.2/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.checksum/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-9-2-RELEASE
+/Makefile.common/1.2/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.common-target/1.2/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.driver/1.1/Fri Feb  1 10:32:32 2019//Tnetbsd-9-2-RELEASE
+/Makefile.frontend/1.6/Fri Feb  1 10:34:18 2019//Tnetbsd-9-2-RELEASE
+/Makefile.gcc-tool/1.3/Fri Feb  1 10:34:18 2019//Tnetbsd-9-2-RELEASE
+/Makefile.inc/1.32/Fri Feb  1 10:39:48 2019//Tnetbsd-9-2-RELEASE
+/Makefile.libcpp/1.3/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.libdecnumber/1.3/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.libiberty/1.2/Fri Feb  1 10:35:09 2019//Tnetbsd-9-2-RELEASE
+/Makefile.options/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-9-2-RELEASE
+/Makefile.prog/1.1/Fri Feb  1 10:34:18 2019//Tnetbsd-9-2-RELEASE
+/Makefile.target-defines/1.1/Tue Mar 15 19:12:06 2016//Tnetbsd-9-2-RELEASE
+D/backend////
+D/cc1////
+D/cc1obj////
+D/cc1plus////
+D/common////
+D/common-target////
+D/cpp////
+D/frontend////
+D/g++////
+D/gcc////
+D/gcc-ar////
+D/gcc-nm////
+D/gcc-ranlib////
+D/gcov////
+D/gcov-dump////
+D/host-libcpp////
+D/host-libiberty////
+D/include////
+D/libcpp////
+D/libdecnumber////
+D/lto-wrapper////
+D/lto1////

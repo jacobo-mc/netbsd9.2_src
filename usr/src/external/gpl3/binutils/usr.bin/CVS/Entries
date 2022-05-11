@@ -1,0 +1,20 @@
+/Makefile/1.6/Fri Jan 29 14:42:48 2016//Tnetbsd-9-2-RELEASE
+/Makefile.inc/1.7/Tue Jan 26 19:37:47 2016//Tnetbsd-9-2-RELEASE
+D/addr2line////
+D/ar////
+D/c++filt////
+D/coffdump////
+D/common////
+D/elfedit////
+D/gas////
+D/gprof////
+D/ld////
+D/nlmconv////
+D/nm////
+D/objcopy////
+D/objdump////
+D/ranlib////
+D/readelf////
+D/size////
+D/strings////
+D/strip////

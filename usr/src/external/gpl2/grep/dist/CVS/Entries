@@ -1,0 +1,32 @@
+/ABOUT-NLS/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/AUTHORS/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/COPYING/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/ChangeLog/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/INSTALL/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/Makefile.cvs/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/NEWS/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/README/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/README-alpha/1.1.1.1/Sun Jan 10 21:36:14 2016//Tnetbsd-9-2-RELEASE
+/README.DOS/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/THANKS/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/TODO/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/aclocal.m4/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/autogen.sh/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/config.guess/1.2/Wed Feb  1 09:26:42 2017//Tnetbsd-9-2-RELEASE
+/config.hin/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/config.sub/1.2/Wed Feb  1 09:26:42 2017//Tnetbsd-9-2-RELEASE
+/configure/1.1.1.1/Sun Jan 10 21:36:16 2016//Tnetbsd-9-2-RELEASE
+/configure.in/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/depcomp/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/grep.spec/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/install-sh/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/missing/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/mkinstalldirs/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+/stamp-h.in/1.1.1.1/Sun Jan 10 21:36:15 2016//Tnetbsd-9-2-RELEASE
+D/doc////
+D/intl////
+D/lib////
+D/po////
+D/src////

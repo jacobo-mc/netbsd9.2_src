@@ -1,0 +1,12 @@
+/netwalker.h/1.2/Tue May  6 11:08:51 2014//Tnetbsd-9-2-RELEASE
+/netwalker_backlight.c/1.2/Mon Dec 21 04:26:29 2015//Tnetbsd-9-2-RELEASE
+/netwalker_backlightvar.h/1.2/Mon Dec 21 04:26:29 2015//Tnetbsd-9-2-RELEASE
+/netwalker_btn.c/1.2/Tue May  6 11:08:51 2014//Tnetbsd-9-2-RELEASE
+/netwalker_lcd.c/1.6/Wed Jul 24 12:33:18 2019//Tnetbsd-9-2-RELEASE
+/netwalker_lid.c/1.1/Tue May  6 11:08:51 2014//Tnetbsd-9-2-RELEASE
+/netwalker_machdep.c/1.26/Wed Jul 24 12:33:18 2019//Tnetbsd-9-2-RELEASE
+/netwalker_pwr.c/1.1/Tue May  6 11:08:51 2014//Tnetbsd-9-2-RELEASE
+/netwalker_reg.h/1.1/Sat Nov 13 07:31:32 2010//Tnetbsd-9-2-RELEASE
+/netwalker_spi.c/1.2/Wed Jul 24 12:33:18 2019//Tnetbsd-9-2-RELEASE
+/netwalker_usb.c/1.6/Wed Jul 24 12:33:18 2019//Tnetbsd-9-2-RELEASE
+D

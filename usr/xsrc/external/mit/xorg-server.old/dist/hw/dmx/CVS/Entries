@@ -1,0 +1,54 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmx-config.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmx.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmx.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmx_glxvisuals.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmx_glxvisuals.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcb.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcb.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxclient.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcursor.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxcursor.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxdpms.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxdpms.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxextension.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxextension.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxfont.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxfont.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxgc.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxgc.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxgcops.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxgcops.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxinput.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxinput.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxlog.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxlog.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxpict.c/1.2/Sat Nov  4 21:50:45 2017//Tnetbsd-9-2-RELEASE
+/dmxpict.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxpixmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxpixmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxprop.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxprop.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxscrinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxscrinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxshadow.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxshadow.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxstat.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxstat.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxsync.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxsync.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxvisual.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxvisual.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxwindow.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+/dmxwindow.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-9-2-RELEASE
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
+D/man////

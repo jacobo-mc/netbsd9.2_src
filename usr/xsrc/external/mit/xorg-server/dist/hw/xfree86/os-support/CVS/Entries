@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.4/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.9/Sun Mar  3 21:57:47 2019//Tnetbsd-9-2-RELEASE
+/int10Defines.h/1.1.1.1/Thu Jul 31 19:49:36 2008//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:11 2018//Tnetbsd-9-2-RELEASE
+/xf86OSpriv.h/1.1.1.2/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/xf86_OSlib.h/1.1.1.6/Mon Dec 31 09:36:11 2018//Tnetbsd-9-2-RELEASE
+/xf86_OSproc.h/1.1.1.5/Mon Dec 31 09:36:11 2018//Tnetbsd-9-2-RELEASE
+D/bsd////
+D/bus////
+D/hurd////
+D/linux////
+D/misc////
+D/shared////
+D/solaris////
+D/stub////

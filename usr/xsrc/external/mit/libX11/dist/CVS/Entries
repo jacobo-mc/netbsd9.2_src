@@ -1,0 +1,30 @@
+/AUTHORS/1.1.1.3/Thu May 30 23:04:38 2013//Tnetbsd-9-2-RELEASE
+/COPYING/1.1.1.3/Wed Feb 23 07:55:41 2011//Tnetbsd-9-2-RELEASE
+/ChangeLog/1.1.1.19.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/INSTALL/1.1.1.5/Sat Mar  4 21:56:55 2017//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.7/Mon Jul  8 22:58:27 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.18.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/NEWS/1.1.1.1/Wed Jul 30 02:42:49 2008//Tnetbsd-9-2-RELEASE
+/README.md/1.1.1.1.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/aclocal.m4/1.1.1.18.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/compile/1.1.1.6.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/config.guess/1.1.1.12.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/config.sub/1.1.1.11.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/configure/1.1.1.19.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/configure.ac/1.1.1.19.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/cpprules.in/1.1.1.7/Sun Jul 19 08:08:35 2015//Tnetbsd-9-2-RELEASE
+/depcomp/1.1.1.9.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/docbook.am/1.1.1.3/Thu May 30 23:04:37 2013//Tnetbsd-9-2-RELEASE
+/install-sh/1.1.1.9.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/ltmain.sh/1.1.1.12.2.1/Wed Aug  5 13:44:37 2020//Tnetbsd-9-2-RELEASE
+/missing/1.1.1.8.2.1/Wed Aug  5 13:44:38 2020//Tnetbsd-9-2-RELEASE
+/test-driver/1.1.1.6.2.1/Wed Aug  5 13:44:38 2020//Tnetbsd-9-2-RELEASE
+/x11-xcb.pc.in/1.1.1.1/Wed Jul 30 02:42:49 2008//Tnetbsd-9-2-RELEASE
+/x11.pc.in/1.1.1.2/Sat Jul 18 04:59:05 2009//Tnetbsd-9-2-RELEASE
+D/include////
+D/m4////
+D/man////
+D/modules////
+D/nls////
+D/specs////
+D/src////

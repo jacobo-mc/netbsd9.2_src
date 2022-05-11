@@ -1,0 +1,16 @@
+/files.imx6/1.4/Tue Jul 30 06:52:57 2019//Tnetbsd-9-2-RELEASE
+/if_enet_imx.c/1.2/Tue Jul 30 06:26:31 2019//Tnetbsd-9-2-RELEASE
+/imx6_ahcisata.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_clk.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_com.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_gpc.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_gpio.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_i2c.c/1.1/Tue Jul 30 06:52:57 2019//Tnetbsd-9-2-RELEASE
+/imx6_iomux.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_pcie.c/1.2/Fri Jul 26 06:57:54 2019//Tnetbsd-9-2-RELEASE
+/imx6_platform.c/1.4/Sat Jul 27 07:41:43 2019//Tnetbsd-9-2-RELEASE
+/imx6_platform.h/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_sdhc.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_usb.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+/imx6_usbphy.c/1.1/Wed Jul 24 13:12:33 2019//Tnetbsd-9-2-RELEASE
+D

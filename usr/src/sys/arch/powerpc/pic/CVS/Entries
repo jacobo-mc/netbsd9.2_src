@@ -1,0 +1,15 @@
+/files.ipi/1.2/Wed Oct 17 19:56:44 2007//Tnetbsd-9-2-RELEASE
+/files.pic/1.7/Fri Jun 17 23:36:18 2011//Tnetbsd-9-2-RELEASE
+/i8259_common.c/1.7/Wed Feb  1 09:54:03 2012//Tnetbsd-9-2-RELEASE
+/intr.c/1.26.4.1/Tue Feb 25 20:22:14 2020//Tnetbsd-9-2-RELEASE
+/ipi.c/1.12/Fri Jan 23 07:27:05 2015//Tnetbsd-9-2-RELEASE
+/ipi_openpic.c/1.8/Thu May 26 17:38:05 2016//Tnetbsd-9-2-RELEASE
+/ipivar.h/1.9/Thu Apr 19 21:50:07 2018//Tnetbsd-9-2-RELEASE
+/openpic_common.c/1.7/Thu Sep 19 23:28:52 2013//Tnetbsd-9-2-RELEASE
+/pic_distopenpic.c/1.11/Mon Sep  3 16:29:26 2018//Tnetbsd-9-2-RELEASE
+/pic_i8259.c/1.7/Thu Jun  1 02:45:07 2017//Tnetbsd-9-2-RELEASE
+/pic_mpcsoc.c/1.7/Mon Sep  3 16:29:26 2018//Tnetbsd-9-2-RELEASE
+/pic_openpic.c/1.15/Mon Sep  3 16:29:26 2018//Tnetbsd-9-2-RELEASE
+/pic_prepivr.c/1.9/Thu Jun  1 02:45:07 2017//Tnetbsd-9-2-RELEASE
+/picvar.h/1.10/Fri May 11 22:39:59 2018//Tnetbsd-9-2-RELEASE
+D

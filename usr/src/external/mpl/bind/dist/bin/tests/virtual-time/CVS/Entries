@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/README/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/cleanall.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/conf.sh.in/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/run.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/runall.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/setup.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/start.pl/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/start.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/stop.pl/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/stop.sh/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/testsock.pl/1.1.1.1/Sun Aug 12 12:07:27 2018//Tnetbsd-9-2-RELEASE
+/vtwrapper.c/1.3/Wed Jan  9 16:55:05 2019//Tnetbsd-9-2-RELEASE
+D/autosign-ksk////
+D/autosign-zsk////
+D/common////
+D/slave////

@@ -1,0 +1,8 @@
+/Makefile/1.1/Wed Jun 15 09:45:59 2011//Tnetbsd-9-2-RELEASE
+/archdirs.mk/1.4/Wed Sep 19 16:11:53 2018//Tnetbsd-9-2-RELEASE
+/compatsubdir.mk/1.1/Wed Jun 15 09:45:59 2011//Tnetbsd-9-2-RELEASE
+D/arm////
+D/dirshack////
+D/mips////
+D/powerpc////
+D/x86////

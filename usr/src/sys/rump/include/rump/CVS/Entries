@@ -1,0 +1,17 @@
+/Makefile/1.10/Tue Feb  2 12:22:23 2016//Tnetbsd-9-2-RELEASE
+/makerumpdefs.sh/1.31/Tue Aug 21 11:45:23 2018//Tnetbsd-9-2-RELEASE
+/rump.h/1.70/Thu May 11 18:16:00 2017//Tnetbsd-9-2-RELEASE
+/rump_namei.h/1.32/Mon Jun  3 06:05:39 2019//Tnetbsd-9-2-RELEASE
+/rump_syscalls.h/1.111/Fri Aug 10 21:47:16 2018//Tnetbsd-9-2-RELEASE
+/rump_syscalls_compat.h/1.13/Thu Aug 15 21:29:04 2013//Tnetbsd-9-2-RELEASE
+/rump_syscallshotgun.h/1.1/Sun Jan 31 23:14:34 2016//Tnetbsd-9-2-RELEASE
+/rumpdefs.h/1.38/Tue Aug 21 11:47:37 2018//Tnetbsd-9-2-RELEASE
+/rumperr.h/1.8/Tue Aug 21 11:47:37 2018//Tnetbsd-9-2-RELEASE
+/rumperrno2host.h/1.5/Tue Aug 21 11:47:37 2018//Tnetbsd-9-2-RELEASE
+/rumpfs.h/1.1/Tue Feb  2 12:22:23 2016//Tnetbsd-9-2-RELEASE
+/rumpkern_if_pub.h/1.18/Tue Jan 26 23:25:40 2016//Tnetbsd-9-2-RELEASE
+/rumpnet_if_pub.h/1.6/Tue Jan 26 23:25:40 2016//Tnetbsd-9-2-RELEASE
+/rumpuser.h/1.115/Wed Dec 27 09:01:53 2017//Tnetbsd-9-2-RELEASE
+/rumpvfs_if_pub.h/1.14/Tue Jan 26 23:25:40 2016//Tnetbsd-9-2-RELEASE
+/rumpvnode_if.h/1.31/Wed Jul 12 09:31:59 2017//Tnetbsd-9-2-RELEASE
+D

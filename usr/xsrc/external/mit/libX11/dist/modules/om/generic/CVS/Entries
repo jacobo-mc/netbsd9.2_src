@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.4/Wed Feb 23 07:55:54 2011//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.18.2.1/Wed Aug  5 13:44:40 2020//Tnetbsd-9-2-RELEASE
+/omDefault.c/1.1.1.2/Sat May 22 01:22:18 2010//Tnetbsd-9-2-RELEASE
+/omGeneric.c/1.1.1.9.2.1/Wed Aug  5 13:44:40 2020//Tnetbsd-9-2-RELEASE
+/omImText.c/1.1.1.3/Tue Oct  4 22:03:19 2016//Tnetbsd-9-2-RELEASE
+/omText.c/1.1.1.3/Sat May 22 01:22:18 2010//Tnetbsd-9-2-RELEASE
+/omTextEsc.c/1.1.1.3/Sat May 22 01:22:18 2010//Tnetbsd-9-2-RELEASE
+/omTextExt.c/1.1.1.2/Sat May 22 01:22:18 2010//Tnetbsd-9-2-RELEASE
+/omTextPer.c/1.1.1.3/Sat May 22 01:22:18 2010//Tnetbsd-9-2-RELEASE
+/omXChar.c/1.1.1.4/Thu May 30 23:04:43 2013//Tnetbsd-9-2-RELEASE
+D

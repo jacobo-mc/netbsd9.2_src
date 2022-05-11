@@ -1,0 +1,12 @@
+/Android.mk/1.1.1.1/Fri Mar  8 10:19:21 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Fri Mar  8 10:19:21 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Fri Mar  8 10:19:21 2019//Tnetbsd-9-2-RELEASE
+/dri.pc.in/1.1.1.1/Fri Mar  8 10:19:21 2019//Tnetbsd-9-2-RELEASE
+/gen-symbol-redefs.py/1.1.1.1/Fri Mar  8 10:19:21 2019//Tnetbsd-9-2-RELEASE
+D/common////
+D/i915////
+D/i965////
+D/nouveau////
+D/r200////
+D/radeon////
+D/swrast////

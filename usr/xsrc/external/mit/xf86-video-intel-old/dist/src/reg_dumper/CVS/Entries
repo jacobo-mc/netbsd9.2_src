@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/audio.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/gtt.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/hotplug.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/idle.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/lid.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/main.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/reg_dumper.h/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/statuspage.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/stepping.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/util.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+/xprintf.c/1.1.1.1/Mon May 18 22:11:12 2015//Tnetbsd-9-2-RELEASE
+D

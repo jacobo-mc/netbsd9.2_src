@@ -1,0 +1,12 @@
+/adc.c/1.13/Sun Aug  8 16:23:40 2010//Tnetbsd-9-2-RELEASE
+/adcvar.h/1.2/Sun Dec 11 12:18:58 2005//Tnetbsd-9-2-RELEASE
+/rtc.c/1.10/Thu Nov 20 16:34:26 2014//Tnetbsd-9-2-RELEASE
+/sci.c/1.61/Sat Nov 15 19:20:01 2014//Tnetbsd-9-2-RELEASE
+/scif.c/1.66/Sun Dec  6 02:21:55 2015//Tnetbsd-9-2-RELEASE
+/scifvar.h/1.2/Sat Mar  2 22:26:27 2002//Tnetbsd-9-2-RELEASE
+/scivar.h/1.1/Thu Feb 24 16:42:54 2000//Tnetbsd-9-2-RELEASE
+/shb.c/1.14/Sun Apr  5 00:25:59 2009//Tnetbsd-9-2-RELEASE
+/shpcic.c/1.18/Fri Oct  2 05:22:52 2015//Tnetbsd-9-2-RELEASE
+/shpcicvar.h/1.9/Sat Jan 21 19:44:30 2012//Tnetbsd-9-2-RELEASE
+/wdog.c/1.18/Fri Jul 25 08:10:34 2014//Tnetbsd-9-2-RELEASE
+D

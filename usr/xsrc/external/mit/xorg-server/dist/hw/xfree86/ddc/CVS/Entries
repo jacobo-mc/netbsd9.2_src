@@ -1,0 +1,11 @@
+/DDC.HOWTO/1.1.1.2/Thu Jun 11 01:52:57 2009//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.3/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.9/Sun Mar  3 21:57:46 2019//Tnetbsd-9-2-RELEASE
+/ddc.c/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/ddcProperty.c/1.1.1.5/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/edid.h/1.1.1.6/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/interpret_edid.c/1.1.1.5/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Mon Dec 31 09:36:10 2018//Tnetbsd-9-2-RELEASE
+/print_edid.c/1.1.1.5/Wed Aug 10 07:44:34 2016//Tnetbsd-9-2-RELEASE
+/xf86DDC.h/1.3/Thu Aug 11 00:04:29 2016//Tnetbsd-9-2-RELEASE
+D

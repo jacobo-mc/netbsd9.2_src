@@ -1,0 +1,19 @@
+/c99_alloca.h/1.1.1.1/Sun Mar 10 03:42:48 2019//Tnetbsd-9-2-RELEASE
+/c99_compat.h/1.1.1.2/Sun Mar 10 03:42:48 2019//Tnetbsd-9-2-RELEASE
+/c99_math.h/1.1.1.1/Sun Mar 10 03:42:48 2019//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Sun Mar 10 03:42:48 2019//Tnetbsd-9-2-RELEASE
+/no_extern_c.h/1.1.1.1/Sun Mar 10 03:42:48 2019//Tnetbsd-9-2-RELEASE
+D/CL////
+D/D3D9////
+D/EGL////
+D/GL////
+D/GLES////
+D/GLES2////
+D/GLES3////
+D/HaikuGL////
+D/KHR////
+D/c11////
+D/d3dadapter////
+D/drm-uapi////
+D/pci_ids////
+D/vulkan////

@@ -1,0 +1,24 @@
+/SConscript/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/clear.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/disasm.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/fs-fragcoord.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/fs-frontface.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/fs-test.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/fs-write-z.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/graw_util.h/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/gs-test.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/occlusion-query.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/quad-sample.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/quad-tex.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/shader-leak.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tex-srgb.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tex-swizzle.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tgsi_dump.gdb/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tri-gs.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tri-instanced.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tri-large.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/tri.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+/vs-test.c/1.1.1.1/Fri Mar  8 10:19:20 2019//Tnetbsd-9-2-RELEASE
+D/fragment-shader////
+D/geometry-shader////
+D/vertex-shader////

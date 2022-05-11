@@ -1,0 +1,16 @@
+/Makefile.inc/1.19/Tue Jun  4 15:07:55 2019//Tnetbsd-9-2-RELEASE
+D/arch////
+D/atomic////
+D/cdb////
+D/gen////
+D/gmon////
+D/hash////
+D/inet////
+D/md////
+D/misc////
+D/net////
+D/quad////
+D/rpc////
+D/stdlib////
+D/string////
+D/sys////

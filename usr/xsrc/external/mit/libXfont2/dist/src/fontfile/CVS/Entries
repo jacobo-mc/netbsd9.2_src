@@ -1,0 +1,17 @@
+/bitsource.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/bufio.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/bunzip2.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/catalogue.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/decompress.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/defaults.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/dirfile.c/1.1.1.2/Wed Nov 29 01:53:46 2017//Tnetbsd-9-2-RELEASE
+/fileio.c/1.1.1.2/Wed Nov 29 01:53:46 2017//Tnetbsd-9-2-RELEASE
+/filewr.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/fontdir.c/1.1.1.2/Wed Nov 29 01:53:46 2017//Tnetbsd-9-2-RELEASE
+/fontencc.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/fontfile.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/fontscale.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/gunzip.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/register.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+/renderers.c/1.1.1.1/Tue Aug 29 05:51:11 2017//Tnetbsd-9-2-RELEASE
+D

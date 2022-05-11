@@ -1,0 +1,19 @@
+/cmatch.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/cregex_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/cregex_token_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/csub_match.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/regex.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/smatch.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/sregex_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/sregex_token_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/ssub_match.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wcmatch.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wcregex_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wcregex_token_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wcsub_match.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wregex.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wsmatch.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wsregex_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wsregex_token_iterator.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+/wssub_match.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-9-2-RELEASE
+D

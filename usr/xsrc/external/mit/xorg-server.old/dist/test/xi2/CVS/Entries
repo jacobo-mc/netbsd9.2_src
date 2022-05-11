@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-common.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-common.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-eventconvert.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xigetclientpointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xigetselectedevents.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xiquerydevice.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xiquerypointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xiqueryversion.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xiselectevents.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xisetclientpointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+/protocol-xiwarppointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-9-2-RELEASE
+D

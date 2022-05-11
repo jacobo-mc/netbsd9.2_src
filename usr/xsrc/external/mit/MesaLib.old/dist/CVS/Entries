@@ -1,0 +1,21 @@
+/Android.common.mk/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/Android.mk/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/CleanSpec.mk/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/SConstruct/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/VERSION/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/aclocal.m4/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/autogen.sh/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/common.py/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/configure/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/configure.ac/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/install-gallium-links.mk/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+/install-lib-links.mk/1.1.1.1/Fri Mar  8 10:19:16 2019//Tnetbsd-9-2-RELEASE
+D/bin////
+D/docs////
+D/doxygen////
+D/include////
+D/m4////
+D/scons////
+D/src////

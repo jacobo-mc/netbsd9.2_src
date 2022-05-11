@@ -1,0 +1,19 @@
+/DPMS.c/1.1.1.4/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/MITMisc.c/1.1.1.4/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.6/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.8/Mon Mar 18 02:30:03 2019//Tnetbsd-9-2-RELEASE
+/XAppgroup.c/1.1.1.4/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/XEVI.c/1.1.1.5/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/XLbx.c/1.1.1.4/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/XMultibuf.c/1.1.1.5/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/XSecurity.c/1.1.1.6/Mon Mar 18 02:30:03 2019//Tnetbsd-9-2-RELEASE
+/XShape.c/1.1.1.5/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/XShm.c/1.1.1.5/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/XSync.c/1.4/Wed Jul 22 02:23:01 2015//Tnetbsd-9-2-RELEASE
+/XTestExt1.c/1.1.1.4/Sat Jun  1 07:41:36 2013//Tnetbsd-9-2-RELEASE
+/Xcup.c/1.1.1.5/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/Xdbe.c/1.1.1.6/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+/Xge.c/1.6/Wed Jul 22 02:23:01 2015//Tnetbsd-9-2-RELEASE
+/extutil.c/1.6/Sat Jun  1 07:45:50 2013//Tnetbsd-9-2-RELEASE
+/globals.c/1.1.1.5/Wed Jul 22 02:17:42 2015//Tnetbsd-9-2-RELEASE
+D

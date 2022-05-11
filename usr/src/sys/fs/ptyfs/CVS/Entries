@@ -1,0 +1,7 @@
+/Makefile/1.1/Mon Jun 14 14:40:47 2010//Tnetbsd-9-2-RELEASE
+/files.ptyfs/1.4/Sat Oct 11 06:42:19 2014//Tnetbsd-9-2-RELEASE
+/ptyfs.h/1.14/Fri Aug 15 13:40:39 2014//Tnetbsd-9-2-RELEASE
+/ptyfs_subr.c/1.33/Wed Oct 15 15:00:03 2014//Tnetbsd-9-2-RELEASE
+/ptyfs_vfsops.c/1.56/Fri Feb 17 08:31:24 2017//Tnetbsd-9-2-RELEASE
+/ptyfs_vnops.c/1.55/Mon Sep  3 16:29:35 2018//Tnetbsd-9-2-RELEASE
+D

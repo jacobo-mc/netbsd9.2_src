@@ -1,0 +1,13 @@
+/font.c/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/font.h/1.1.1.1/Thu Dec 18 06:02:06 2014//Tnetbsd-9-2-RELEASE
+/hud_context.c/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_context.h/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_cpu.c/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_cpufreq.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_diskstat.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_driver_query.c/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_fps.c/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_nic.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_private.h/1.1.1.2/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+/hud_sensors_temp.c/1.1.1.1/Sun Mar 10 03:42:46 2019//Tnetbsd-9-2-RELEASE
+D

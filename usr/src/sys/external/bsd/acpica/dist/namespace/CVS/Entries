@@ -1,0 +1,23 @@
+/nsaccess.c/1.17/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsalloc.c/1.1.1.9/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsarguments.c/1.1.1.8/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsconvert.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsdump.c/1.14/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsdumpdv.c/1.1.1.9/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nseval.c/1.14/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsinit.c/1.16/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsload.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsnames.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsobject.c/1.1.1.9/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsparse.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nspredef.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsprepkg.c/1.1.1.10/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsrepair.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsrepair2.c/1.13/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nssearch.c/1.1.1.12/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsutils.c/1.1.1.13/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nswalk.c/1.1.1.9/Mon Apr 29 00:29:54 2019//Tnetbsd-9-2-RELEASE
+/nsxfeval.c/1.13/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsxfname.c/1.11/Mon Apr 29 01:18:07 2019//Tnetbsd-9-2-RELEASE
+/nsxfobj.c/1.1.1.9/Mon Apr 29 00:29:55 2019//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.2/Sun Mar 10 03:42:37 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.2/Sun Mar 10 03:42:37 2019//Tnetbsd-9-2-RELEASE
+/dri.pc.in/1.1.1.2/Thu Dec 18 06:02:08 2014//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.2/Sat Jun  1 07:40:57 2019//Tnetbsd-9-2-RELEASE
+D/common////
+D/i915////
+D/i965////
+D/nouveau////
+D/r200////
+D/radeon////
+D/swrast////

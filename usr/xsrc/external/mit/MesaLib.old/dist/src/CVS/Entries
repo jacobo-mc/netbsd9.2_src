@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/SConscript/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+D/egl////
+D/gallium////
+D/gbm////
+D/getopt////
+D/glsl////
+D/glx////
+D/gtest////
+D/hgl////
+D/loader////
+D/mapi////
+D/mesa////
+D/util////

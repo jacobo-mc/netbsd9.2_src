@@ -1,0 +1,17 @@
+/cc-with-tweaks.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/dwarf4-gdb-index.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/fission-dwp.exp/1.1.1.5/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/fission.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/gdbserver-base.exp/1.1.1.5/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/local-board.exp/1.1.1.1/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/local-remote-host-native.exp/1.1.1.4/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/local-remote-host-notty.exp/1.1.1.4/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/local-remote-host.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/native-extended-gdbserver.exp/1.1.1.7/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/native-gdbserver.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/native-stdio-gdbserver.exp/1.1.1.6/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/remote-gdbserver-on-localhost.exp/1.1.1.4/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/remote-stdio-gdbserver.exp/1.1.1.5/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/stabs.exp/1.1.1.4/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+/stdio-gdbserver-base.exp/1.1.1.1/Sun May 26 21:00:03 2019//Tnetbsd-9-2-RELEASE
+D

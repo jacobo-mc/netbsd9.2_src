@@ -1,0 +1,156 @@
+/DEVNAMES/1.321.2.2/Mon Nov 25 20:47:25 2019//Tnetbsd-9-2-RELEASE
+/Makefile/1.41/Sun Feb 24 02:30:38 2019//Tnetbsd-9-2-RELEASE
+/bio.c/1.15/Fri Mar  1 11:06:56 2019//Tnetbsd-9-2-RELEASE
+/biovar.h/1.10/Sun Sep  6 06:00:59 2015//Tnetbsd-9-2-RELEASE
+/ccd.c/1.179.4.1/Sun Oct 11 12:34:29 2020//Tnetbsd-9-2-RELEASE
+/ccdvar.h/1.37/Sun Mar 18 20:33:52 2018//Tnetbsd-9-2-RELEASE
+/cgd.c/1.116.10.3/Mon Apr  6 14:57:42 2020//Tnetbsd-9-2-RELEASE
+/cgd_crypto.c/1.15/Mon Jan  2 14:28:29 2017//Tnetbsd-9-2-RELEASE
+/cgd_crypto.h/1.10/Mon Jan  2 14:28:29 2017//Tnetbsd-9-2-RELEASE
+/cgdvar.h/1.18.24.1/Mon Apr  6 14:57:42 2020//Tnetbsd-9-2-RELEASE
+/clock_subr.c/1.27/Mon Aug 15 15:51:39 2016//Tnetbsd-9-2-RELEASE
+/clock_subr.h/1.26/Thu Apr 19 21:50:08 2018//Tnetbsd-9-2-RELEASE
+/clockctl.c/1.37/Fri Mar  1 11:06:56 2019//Tnetbsd-9-2-RELEASE
+/cninit.c/1.11/Tue Feb  8 20:20:26 2011//Tnetbsd-9-2-RELEASE
+/cons.c/1.75.24.1/Mon Dec  9 15:58:48 2019//Tnetbsd-9-2-RELEASE
+/cons.h/1.27/Tue Feb  8 20:20:26 2011//Tnetbsd-9-2-RELEASE
+/dev_verbose.c/1.3/Wed Oct 26 06:10:39 2016//Tnetbsd-9-2-RELEASE
+/dev_verbose.h/1.2.26.2/Tue Aug 11 17:06:18 2020//Tnetbsd-9-2-RELEASE
+/devlist2h.awk/1.3/Tue Jun 27 08:09:14 2017//Tnetbsd-9-2-RELEASE
+/dksubr.c/1.109.2.2/Sat Mar 21 16:00:39 2020//Tnetbsd-9-2-RELEASE
+/dkvar.h/1.30.10.2/Sat Mar 21 16:00:39 2020//Tnetbsd-9-2-RELEASE
+/files.audio/1.12.2.1/Mon Jan 27 07:06:02 2020//Tnetbsd-9-2-RELEASE
+/files.dev/1.5/Tue Dec 25 11:56:13 2018//Tnetbsd-9-2-RELEASE
+/firmload.c/1.22/Mon May 30 02:33:49 2016//Tnetbsd-9-2-RELEASE
+/firmload.h/1.2/Mon Apr 28 20:23:46 2008//Tnetbsd-9-2-RELEASE
+/fss.c/1.107.4.1/Wed Oct 23 20:35:52 2019//Tnetbsd-9-2-RELEASE
+/fssvar.h/1.32/Wed Feb 20 10:03:25 2019//Tnetbsd-9-2-RELEASE
+/ipmi.c/1.4.4.1/Tue Aug 18 09:36:36 2020//Tnetbsd-9-2-RELEASE
+/ipmivar.h/1.3/Sat May 18 08:38:00 2019//Tnetbsd-9-2-RELEASE
+/keylock.c/1.3/Tue Feb 25 18:30:09 2014//Tnetbsd-9-2-RELEASE
+/keylock.h/1.1/Sat Aug 15 09:43:58 2009//Tnetbsd-9-2-RELEASE
+/kloader.c/1.27/Thu Jun 11 08:14:38 2015//Tnetbsd-9-2-RELEASE
+/kloader.h/1.7/Mon Sep  8 23:36:54 2008//Tnetbsd-9-2-RELEASE
+/kttcp.c/1.42/Sat Dec 22 14:28:56 2018//Tnetbsd-9-2-RELEASE
+/kttcpio.h/1.1/Fri Jun 28 23:27:14 2002//Tnetbsd-9-2-RELEASE
+/ld.c/1.106.4.2/Sat Mar 21 15:52:09 2020//Tnetbsd-9-2-RELEASE
+/ldvar.h/1.33/Tue Mar 19 07:01:14 2019//Tnetbsd-9-2-RELEASE
+/led.c/1.3/Wed Jan 10 15:58:40 2018//Tnetbsd-9-2-RELEASE
+/led.h/1.1/Sat Jul  8 00:54:37 2017//Tnetbsd-9-2-RELEASE
+/lockstat.c/1.25/Thu Jun  1 02:45:09 2017//Tnetbsd-9-2-RELEASE
+/lockstat.h/1.14/Sun Jan 24 01:01:11 2016//Tnetbsd-9-2-RELEASE
+/md.c/1.81/Sun May 26 10:22:07 2019//Tnetbsd-9-2-RELEASE
+/md.h/1.11/Mon Dec 14 03:11:22 2009//Tnetbsd-9-2-RELEASE
+/md_root.c/1.19/Sun Aug 30 05:24:03 2015//Tnetbsd-9-2-RELEASE
+/midi.c/1.89/Wed May  8 13:40:17 2019//Tnetbsd-9-2-RELEASE
+/midi_if.h/1.27/Sun Mar  1 00:34:14 2015//Tnetbsd-9-2-RELEASE
+/midictl.c/1.9/Thu Jun  1 02:45:09 2017//Tnetbsd-9-2-RELEASE
+/midictl.h/1.4/Wed Nov 23 23:07:31 2011//Tnetbsd-9-2-RELEASE
+/midisyn.c/1.25/Wed May  8 13:40:17 2019//Tnetbsd-9-2-RELEASE
+/midisynvar.h/1.14/Mon Apr  9 10:18:16 2012//Tnetbsd-9-2-RELEASE
+/midivar.h/1.20/Mon Dec 22 07:02:22 2014//Tnetbsd-9-2-RELEASE
+/mm.c/1.24/Tue Feb  5 11:33:13 2019//Tnetbsd-9-2-RELEASE
+/mm.h/1.3/Mon Jul 11 16:13:28 2016//Tnetbsd-9-2-RELEASE
+/nullcons_subr.c/1.13/Fri Jul 25 08:10:35 2014//Tnetbsd-9-2-RELEASE
+/radio.c/1.29/Mon Feb  5 22:14:26 2018//Tnetbsd-9-2-RELEASE
+/radio_if.h/1.5/Wed Jul  9 13:12:54 2008//Tnetbsd-9-2-RELEASE
+/rnd_private.h/1.11/Tue Apr 14 13:14:20 2015//Tnetbsd-9-2-RELEASE
+/rndpseudo.c/1.37.4.1/Tue Sep  3 07:48:00 2019//Tnetbsd-9-2-RELEASE
+/sequencer.c/1.70/Sun Oct 29 17:57:21 2017//Tnetbsd-9-2-RELEASE
+/sequencervar.h/1.17/Mon Dec 22 07:02:22 2014//Tnetbsd-9-2-RELEASE
+/spkr.c/1.17/Thu Apr 18 13:01:38 2019//Tnetbsd-9-2-RELEASE
+/spkr_audio.c/1.8/Fri Jun 21 09:34:30 2019//Tnetbsd-9-2-RELEASE
+/spkrio.h/1.3/Sun Jun 11 03:33:48 2017//Tnetbsd-9-2-RELEASE
+/spkrvar.h/1.9/Sun Jun 11 21:54:22 2017//Tnetbsd-9-2-RELEASE
+/veriexec.c/1.1/Wed Dec  9 18:25:32 2015//Tnetbsd-9-2-RELEASE
+/veriexec.config/1.1/Fri Apr 26 18:41:24 2019//Tnetbsd-9-2-RELEASE
+/video.c/1.35/Mon Sep  3 16:29:30 2018//Tnetbsd-9-2-RELEASE
+/video_if.h/1.7/Fri Dec 24 20:54:28 2010//Tnetbsd-9-2-RELEASE
+/vnd.c/1.272/Fri Mar  1 11:06:56 2019//Tnetbsd-9-2-RELEASE
+/vndvar.h/1.38/Sun Oct  7 11:51:26 2018//Tnetbsd-9-2-RELEASE
+D/acpi////
+D/adb////
+D/altmem////
+D/apm////
+D/arcbios////
+D/ata////
+D/audio////
+D/bi////
+D/bluetooth////
+D/bus_dma////
+D/cadence////
+D/cardbus////
+D/clk////
+D/dec////
+D/dkwedge////
+D/dm////
+D/dmover////
+D/drm////
+D/dtv////
+D/ebus////
+D/eisa////
+D/fdt////
+D/filemon////
+D/flash////
+D/gpib////
+D/gpio////
+D/hdaudio////
+D/hdmicec////
+D/hid////
+D/hil////
+D/hpc////
+D/hyperv////
+D/i2c////
+D/i2o////
+D/ic////
+D/ieee1394////
+D/ir////
+D/isa////
+D/isapnp////
+D/iscsi////
+D/marvell////
+D/mca////
+D/microcode////
+D/mii////
+D/mscp////
+D/mvme////
+D/nand////
+D/news////
+D/nor////
+D/nvmm////
+D/ofisa////
+D/ofw////
+D/onewire////
+D/pad////
+D/pci////
+D/pckbport////
+D/pcmcia////
+D/podulebus////
+D/ppbus////
+D/pud////
+D/putter////
+D/pwm////
+D/qbus////
+D/raidframe////
+D/rasops////
+D/rcons////
+D/sbus////
+D/scsipi////
+D/sdmmc////
+D/smbus////
+D/spi////
+D/splash////
+D/stbi////
+D/std////
+D/sun////
+D/sysmon////
+D/tc////
+D/tprof////
+D/usb////
+D/videomode////
+D/virtio////
+D/vme////
+D/wscons////
+D/wsfb////
+D/wsfont////
+D/xmi////

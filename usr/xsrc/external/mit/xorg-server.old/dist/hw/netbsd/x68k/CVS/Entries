@@ -1,0 +1,14 @@
+/X68k.man/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/X68kConfig/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68k.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kConfig.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kFb.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kGraph.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kInit.c/1.1.1.1.4.1/Sun Jul 26 10:49:51 2020//Tnetbsd-9-2-RELEASE
+/x68kIo.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kKbd.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kKeyMap.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kMouse.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kReg.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+/x68kText.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,18 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxaddinput.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxaddscreen.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxinfo.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxreconfig.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxresize.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxrminput.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxrmscreen.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/dmxwininfo.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/ev.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/evi.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/res.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xbell.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xinput.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xled.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+/xtest.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-9-2-RELEASE
+D

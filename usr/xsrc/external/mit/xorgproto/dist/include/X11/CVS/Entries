@@ -1,0 +1,31 @@
+/DECkeysym.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/HPkeysym.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Sunkeysym.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/X.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/XF86keysym.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/XWDFile.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xalloca.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xarch.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xatom.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xdefs.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xfuncproto.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xfuncs.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xmd.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xos.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xos_r.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xosdefs.h/1.1.1.1/Wed Mar 14 07:25:46 2018//Tnetbsd-9-2-RELEASE
+/Xpoll.h.in/1.2/Wed Mar 14 07:57:43 2018//Tnetbsd-9-2-RELEASE
+/Xproto.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xprotostr.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xthreads.h/1.1.1.1/Wed Mar 14 07:25:46 2018//Tnetbsd-9-2-RELEASE
+/Xw32defs.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/Xwindows.h/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+/Xwinsock.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/ap_keysym.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/keysym.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/keysymdef.h/1.1.1.2/Mon Jul  8 19:56:10 2019//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Wed Mar 14 07:25:45 2018//Tnetbsd-9-2-RELEASE
+D/PM////
+D/dri////
+D/extensions////
+D/fonts////

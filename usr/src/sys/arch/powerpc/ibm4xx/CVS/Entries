@@ -1,0 +1,18 @@
+/4xx_locore.S/1.7/Sun Mar  4 06:00:34 2007//Tnetbsd-9-2-RELEASE
+/4xx_trap_subr.S/1.7.60.1/Tue Mar  3 18:54:59 2020//Tnetbsd-9-2-RELEASE
+/board_prop.c/1.4/Sat Jun 18 06:41:41 2011//Tnetbsd-9-2-RELEASE
+/clock.c/1.27/Mon Jan  9 06:25:55 2012//Tnetbsd-9-2-RELEASE
+/copyinstr.c/1.9.64.1/Mon Mar  9 11:52:14 2020//Tnetbsd-9-2-RELEASE
+/copyoutstr.c/1.9.64.1/Mon Mar  9 11:52:14 2020//Tnetbsd-9-2-RELEASE
+/cpu.c/1.33.34.1/Mon Mar  9 10:37:57 2020//Tnetbsd-9-2-RELEASE
+/genassym.cf/1.24/Sun Jul 15 05:16:43 2018//Tnetbsd-9-2-RELEASE
+/ibm40x_machdep.c/1.6/Sat Jun 18 06:41:41 2011//Tnetbsd-9-2-RELEASE
+/ibm4xx_autoconf.c/1.15/Sat Jun 18 06:41:41 2011//Tnetbsd-9-2-RELEASE
+/ibm4xx_machdep.c/1.26/Sun Jul 15 05:16:43 2018//Tnetbsd-9-2-RELEASE
+/pic_uic.c/1.4.34.1/Mon Mar  9 10:37:57 2020//Tnetbsd-9-2-RELEASE
+/pmap.c/1.76.20.2/Mon Mar  9 10:36:42 2020//Tnetbsd-9-2-RELEASE
+/trap.c/1.70.4.1/Thu Feb 27 18:43:41 2020//Tnetbsd-9-2-RELEASE
+/trap_subr.S/1.27.4.1/Tue Mar  3 18:54:59 2020//Tnetbsd-9-2-RELEASE
+D/dev////
+D/openbios////
+D/pci////

@@ -1,0 +1,14 @@
+/amdgpu_trace.h/1.1/Mon Aug 27 14:02:32 2018//Tnetbsd-9-2-RELEASE
+/amdgpufb.h/1.1/Mon Aug 27 14:02:32 2018//Tnetbsd-9-2-RELEASE
+/drm_trace.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-9-2-RELEASE
+/gpu_sched_trace.h/1.1/Mon Aug 27 14:02:32 2018//Tnetbsd-9-2-RELEASE
+/i915_trace.h/1.14/Mon Aug 27 15:25:28 2018//Tnetbsd-9-2-RELEASE
+/radeon_trace.h/1.2/Mon Aug 27 07:51:37 2018//Tnetbsd-9-2-RELEASE
+D/acpi////
+D/asm////
+D/drm////
+D/linux////
+D/radeon////
+D/soc////
+D/trace////
+D/video////

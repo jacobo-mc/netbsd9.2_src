@@ -1,0 +1,15 @@
+/float.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/iso646.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdalign.h/1.1.1.4/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdarg.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdatomic.h/1.1.1.3/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdbool.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stddef.h/1.6/Sat Jan 19 12:10:08 2019//Tnetbsd-9-2-RELEASE
+/stdfix.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdint-gcc.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/stdint-wrap.h/1.1.1.2/Sat Mar  1 08:43:02 2014//Tnetbsd-9-2-RELEASE
+/stdnoreturn.h/1.1.1.4/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/tgmath.h/1.1.1.5/Sat Jan 19 10:14:33 2019//Tnetbsd-9-2-RELEASE
+/unwind-arm-common.h/1.5/Sat Jan 19 12:10:08 2019//Tnetbsd-9-2-RELEASE
+/varargs.h/1.1.1.1/Tue Jun 21 01:21:41 2011//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,26 @@
+/assert.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/complex.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/ctype.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/errno.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/fenv.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/float.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/inttypes.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/iso646.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/limits.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/locale.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/math.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/setjmp.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/signal.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stdarg.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stdbool.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stddef.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stdint.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stdio.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/stdlib.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/string.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/tgmath.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/time.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/uchar.h/1.1.1.2/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/wchar.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+/wctype.h/1.1.1.5/Sat Jan 19 10:14:12 2019//Tnetbsd-9-2-RELEASE
+D

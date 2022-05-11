@@ -1,0 +1,14 @@
+/32bit-cpu.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/32bit-cpu.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/32bit-csr.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/32bit-csr.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/32bit-fpu.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/32bit-fpu.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-cpu.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-cpu.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-csr.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-csr.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-fpu.c/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/64bit-fpu.xml/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+/rebuild-csr-xml.sh/1.1.1.1/Sun May 26 20:59:43 2019//Tnetbsd-9-2-RELEASE
+D

@@ -1,0 +1,11 @@
+/autoconf.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/com_obio.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/i80321_mainbus.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/iyonix_machdep.c/1.2/Tue Jul 16 14:41:46 2019//Tnetbsd-9-2-RELEASE
+/iyonix_pci.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/iyonixreg.h/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/iyonixvar.h/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/obio.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/obio_space.c/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+/obiovar.h/1.1/Thu Feb 14 21:47:52 2019//Tnetbsd-9-2-RELEASE
+D

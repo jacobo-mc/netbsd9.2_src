@@ -1,0 +1,23 @@
+/Automake.inc/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/Makefile.sources/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/meson.build/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_buffer.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_context.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_context.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_encode.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_encode.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_hw.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_protocol.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_public.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_query.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_resource.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_resource.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_screen.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_screen.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_streamout.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_texture.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_tgsi.c/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+/virgl_winsys.h/1.1.1.1/Sun Mar 10 03:42:44 2019//Tnetbsd-9-2-RELEASE
+D

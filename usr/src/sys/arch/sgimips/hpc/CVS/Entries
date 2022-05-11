@@ -1,0 +1,18 @@
+/button.c/1.1/Mon Apr  9 20:07:22 2018//Tnetbsd-9-2-RELEASE
+/files.hpc/1.17/Wed May  8 13:40:16 2019//Tnetbsd-9-2-RELEASE
+/haltwo.c/1.26/Sat May 25 04:41:53 2019//Tnetbsd-9-2-RELEASE
+/haltworeg.h/1.2/Sun Dec 11 12:18:53 2005//Tnetbsd-9-2-RELEASE
+/haltwovar.h/1.8/Wed Nov 23 23:07:30 2011//Tnetbsd-9-2-RELEASE
+/hpc.c/1.71/Sat Sep 15 01:05:06 2018//Tnetbsd-9-2-RELEASE
+/hpcdma.c/1.21/Fri Jul  1 18:53:46 2011//Tnetbsd-9-2-RELEASE
+/hpcdma.h/1.11/Fri Jul  1 18:53:46 2011//Tnetbsd-9-2-RELEASE
+/hpcreg.h/1.20/Tue Jan 25 12:21:04 2011//Tnetbsd-9-2-RELEASE
+/hpcvar.h/1.12/Tue Jan 25 12:21:04 2011//Tnetbsd-9-2-RELEASE
+/if_sq.c/1.52/Thu May 23 13:10:51 2019//Tnetbsd-9-2-RELEASE
+/pckbc_hpc.c/1.10/Wed Feb 18 16:47:58 2015//Tnetbsd-9-2-RELEASE
+/pi1ppc.c/1.12/Sun Jul 13 17:12:23 2014//Tnetbsd-9-2-RELEASE
+/pi1ppcreg.h/1.2/Thu Mar  5 01:38:12 2009//Tnetbsd-9-2-RELEASE
+/pi1ppcvar.h/1.6/Fri Jul  1 18:53:47 2011//Tnetbsd-9-2-RELEASE
+/sqvar.h/1.15/Mon Apr 13 21:18:42 2015//Tnetbsd-9-2-RELEASE
+/wdsc.c/1.35/Sun Sep  2 16:18:50 2018//Tnetbsd-9-2-RELEASE
+D

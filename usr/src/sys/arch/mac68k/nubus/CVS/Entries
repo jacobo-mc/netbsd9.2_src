@@ -1,0 +1,10 @@
+/cpi_nubus.c/1.10/Mon Sep  3 16:29:25 2018//Tnetbsd-9-2-RELEASE
+/cpi_nubusvar.h/1.4/Sat Oct 27 17:17:59 2012//Tnetbsd-9-2-RELEASE
+/grf_nubus.c/1.78/Sun Feb 28 19:39:27 2016//Tnetbsd-9-2-RELEASE
+/if_ae_nubus.c/1.41/Fri Jan 16 23:43:46 2009//Tnetbsd-9-2-RELEASE
+/if_netdock_nubus.c/1.29.4.1/Wed Oct 23 19:43:25 2019//Tnetbsd-9-2-RELEASE
+/if_sm_nubus.c/1.10/Sat Oct 27 17:17:59 2012//Tnetbsd-9-2-RELEASE
+/if_sn_nubus.c/1.29/Wed Apr 23 13:29:45 2008//Tnetbsd-9-2-RELEASE
+/nubus.c/1.66/Tue Jan  8 19:41:09 2019//Tnetbsd-9-2-RELEASE
+/nubus.h/1.66/Sat Oct 27 17:18:00 2012//Tnetbsd-9-2-RELEASE
+D

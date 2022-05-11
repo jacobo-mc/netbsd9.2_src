@@ -1,0 +1,21 @@
+/Android.mk/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.sources/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/SConscript/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+D/cso_cache////
+D/draw////
+D/gallivm////
+D/hud////
+D/indices////
+D/os////
+D/pipe-loader////
+D/pipebuffer////
+D/postprocess////
+D/rbug////
+D/rtasm////
+D/target-helpers////
+D/tgsi////
+D/translate////
+D/util////
+D/vl////

@@ -1,0 +1,24 @@
+/ICElibint.h/1.1.1.7/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.7/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/accept.c/1.1.1.4/Fri Jul 11 18:44:45 2014//Tnetbsd-9-2-RELEASE
+/authutil.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/connect.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/error.c/1.1.1.5/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/getauth.c/1.1.1.7/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/globals.h/1.1.1.5/Fri Jul 11 18:44:45 2014//Tnetbsd-9-2-RELEASE
+/iceauth.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/icetrans.c/1.4/Mon Jul 15 05:38:37 2019//Tnetbsd-9-2-RELEASE
+/listen.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/listenwk.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/locking.c/1.1.1.3/Sun Nov 21 05:47:12 2010//Tnetbsd-9-2-RELEASE
+/misc.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/ping.c/1.1.1.4/Fri Jul 11 18:44:45 2014//Tnetbsd-9-2-RELEASE
+/process.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/protosetup.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/register.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/replywait.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/setauth.c/1.1.1.5/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/shutdown.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+/watch.c/1.1.1.6/Mon Jul 15 05:38:05 2019//Tnetbsd-9-2-RELEASE
+D

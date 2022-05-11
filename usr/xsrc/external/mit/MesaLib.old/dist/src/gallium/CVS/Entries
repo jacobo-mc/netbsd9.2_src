@@ -1,0 +1,16 @@
+/Android.common.mk/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Android.mk/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Automake.inc/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.am/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/Makefile.in/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/README.portability/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+/SConscript/1.1.1.1/Fri Mar  8 10:19:17 2019//Tnetbsd-9-2-RELEASE
+D/auxiliary////
+D/docs////
+D/drivers////
+D/include////
+D/state_trackers////
+D/targets////
+D/tests////
+D/tools////
+D/winsys////

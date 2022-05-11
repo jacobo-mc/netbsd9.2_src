@@ -1,0 +1,13 @@
+/admgpio.c/1.4/Fri Jul  1 18:38:49 2011//Tnetbsd-9-2-RELEASE
+/admpci.c/1.13/Fri Oct  2 05:22:51 2015//Tnetbsd-9-2-RELEASE
+/admwdog.c/1.4/Sat Oct 27 17:18:01 2012//Tnetbsd-9-2-RELEASE
+/ahci.c/1.17.4.2/Sun Mar  1 12:35:16 2020//Tnetbsd-9-2-RELEASE
+/ahcireg.h/1.2/Sat Apr 23 10:15:29 2016//Tnetbsd-9-2-RELEASE
+/ahcivar.h/1.6/Sat Apr 23 10:15:29 2016//Tnetbsd-9-2-RELEASE
+/if_admsw.c/1.24/Tue May 28 07:41:47 2019//Tnetbsd-9-2-RELEASE
+/if_admswreg.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-9-2-RELEASE
+/if_admswvar.h/1.6/Mon Sep  3 16:29:25 2018//Tnetbsd-9-2-RELEASE
+/uart.c/1.12/Fri Jul 25 08:10:34 2014//Tnetbsd-9-2-RELEASE
+/uart.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-9-2-RELEASE
+/wdc_extio.c/1.10.8.1/Mon Sep 23 07:09:47 2019//Tnetbsd-9-2-RELEASE
+D
